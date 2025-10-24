@@ -10,10 +10,11 @@ or $\textcolor{red}{the\ mafia\ (bad\ team)}$ . They then work together to bring
 
 <sub>The goal for the towns people is to eliminate all the mafia members, while the mafia eliminate everyone that does not obey the way of mafia. there may be roles like the jester and the alchemist, where they can win with either side, and the serial killer, who want to kill everyone and win by themselves.</sub> 
 
----
-  
+##
+
 Here are things you will be expecting here:
 
+<div align="left">  
  <ol>
       <li>There will be NO paragraphs written in this game of mafia! <b><i><ins>PLEASE</ins> don't send me paragraphs as your action.</b></i></li>
       <li>Questions are always welcomed! Don't be afraid to ask if you are confuse!</li>
@@ -22,9 +23,10 @@ Here are things you will be expecting here:
         
   </li>
     </ol>
+      </div>
 
 ## ROLES
-<details>
+<div align="left"> <details> 
   <summary>$\textcolor{green}{GOOD}$</summary>
   <li><b><ins>Doctor:</b></ins> Heal one person each night. (Anyone that was injured or poisoned have 3 days/nights to be heal by the doctor before they die.)</li>
   <li><b><ins>Bodyguard:</b></ins> Protect one person from death each night. If the person who you protected is attacked, you and the attacker will die.</li>
@@ -46,15 +48,32 @@ Here are things you will be expecting here:
   <li><b><ins>Alchemist:</ins></b> Poison someone each night. Target will have 2 days to be cured before they die.</li>
   <li><b><ins>Serial Killer:</ins></b> Kill someone each night. This role have to try to kill everyone, no matter who they are.</li>
   </details>
-</details>
-<br clear="left"/>
-  
- 
-<b>CHECKOUT:</b>
+</details></div>
 
-<a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a>
+
+ ## GAMEMODES 
+
+<img src="warlicplush.png" align="right" width="200px"/>
+ <div align="left"><details>
+  <summary><b>EASY</b></summary>
+   1 Godfather, 1 Mafia, 1 Consigliere, 1 Serial Killer. Investigator know the role directly, AND clues will be reveal by the host at daytime.
+ </details>
+ <details>
+  <summary><b>NORMAL</b></summary>
+    1 Godfather, 1 Mafia, 1 Consigliere, 1 Serial Killer. Investigator know the role directly, BUT they will have to share clues by themselves
+ </details>
+ <details>
+  <summary><b>HARD</b></summary>
+   1 Godfather, 2-3 Mafias, 1 Consigliere, 2 Jesters. 2 Serial Killers. Investigator will be given clues about the role instead, shares clues by themselves.
+ </details></div>
+ <br clear="left"/>
+ 
+##
+
+<sub><b>credits:</b></sub>
+
+<sub><a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a></sub>
 
 <sub><sup>"what is adventure quest worlds and why is it credited?" warlic is from that game, i kind of use the character to represent myself. i do not own him.</sub></sup>
 
-<img src="warlicplush.png" align="center" width="100px"/>
 </div>
