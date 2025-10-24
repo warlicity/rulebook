@@ -1,6 +1,4 @@
-# <b>PONYTOWN MAFIA RULEBOOK</b>
-
-<img src="warlicplush.png" align="right" width="350px"/>
+# <div align="center"> <b>PONYTOWN MAFIA RULEBOOK</b>
 
 <div align="center"><b>Welcome to the rulebook!</b>
 
@@ -57,4 +55,6 @@ Here are things you will be expecting here:
 <a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a>
 
 <sub><sup>"what is adventure quest worlds and why is it credited?" warlic is from that game</sub></sup>
+
+<img src="warlicplush.png" align="center" width="100px"/>
 </div>
