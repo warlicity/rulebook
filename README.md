@@ -68,9 +68,7 @@ Here are things you will be expecting here:
  </details></div>
  <br clear="left"/>
  
-##
-
-<sub><b>credits:</b></sub>
+---
 
 <sub><a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a></sub>
 
