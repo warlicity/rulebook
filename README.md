@@ -6,7 +6,7 @@
 
 <sub>Mafia is a <b>social deduction game</b> where a group of players are given roles between $\textcolor{green}{the\ towns\ people\ (good\ team)}$
 or $\textcolor{red}{the\ mafia\ (bad\ team)}$ . They then work together to bring out the bad team to keep their town safe. From discussing, investigating, sharing their actions, and as for the mafia, lying.</sub>  
-<sub>this game consist of two phases: <b>the night phase</b>, where people do their actions. and <b>the day phase</b>, where a discussion is held and a vote can be made to eliminate a suspect.</sub>
+<sub>This game consist of two phases: <b>the night phase</b>, where players do their actions. and <b>the day phase</b>, where a discussion is held and votes can be made to eliminate a suspect.</sub>
 
 <sub>The goal for the towns people is to eliminate all the mafia members, while the mafia eliminate everyone that does not obey the way of mafia. there may be roles like the jester and the alchemist, where they can win with either side, and the serial killer, who want to kill everyone and win by themselves.</sub> 
 
