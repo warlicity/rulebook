@@ -1,19 +1,34 @@
-<img src="warlicplush.png" align="right" width="350px"/>
-  
-<div align="center"><b>PONYTOWN MAFIA RULEBOOK</b>
-  
+# <b>PONYTOWN MAFIA RULEBOOK</b>
+
+<img src="warlicplush.png" align="right" width="400px"/>
+
+<div align="center"><b>Welcome to the rulebook!</b>
+
+<sub><sup>This mafia is heavily inspired by <a href="https://www.townofsalem.io/">Town Of Salem</a>. It may not be accurate to the real game, but it runs the same way.</sub></sup>
+
+<sub>Mafia is a <b>social deduction game</b> where a group of players are given roles between $\textcolor{green}{the\ towns\ people\ (good\ team)}$
+or $\textcolor{red}{the\ mafia\ (bad\ team)}$ . They then work together to bring out the bad team to keep their town safe. From discussing, investigating, sharing their actions, and as for the mafia, lying.</sub>  
+<sub>this game consist of two phases: <b>the night phase</b>, where people do their actions. and <b>the day phase</b>, where a discussion is held and a vote can be made to eliminate a suspect.</sub>
+
+<sub>The goal for the towns people is to eliminate all the mafia members, while the mafia eliminate everyone that does not obey the way of mafia. there may be roles like the jester and the alchemist, where they can win with either side, and the serial killer, who want to kill everyone and win by themselves.</sub> 
+
 ---
+  
+Here are things you will be expecting here:
 
-unfinished. however, checkout:
+ <ol>
+      <li>There will be NO paragraphs written in this game of mafia! <b><i><ins>PLEASE</ins> don't send me paragraphs as your action.</b></i></li>
+      <li>Questions are always welcomed! Don't be afraid to ask if you are confuse!</li>
+      <li>Follow Ponytown's rules! While swearing is fine; <b>SLURS, NOT SAFE FOR WORK CONTENT, AND OTHER SENSITIVE TOPICS ARE PROHIBITED.</b></li>
+      <li>If there is a name attached to your role, that is your teammate! Work with them by talking in whispers!
+        
+  </li>
+    </ol>
 
-<a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a>
-
-yes i credited aqw because of the character i use. they are from aqw. i like aqw
-
-# ROLES
+## ROLES
 <details>
   <summary>$\textcolor{green}{GOOD}$</summary>
-   <li><b><ins>Doctor:</b></ins> Heal one person each night. (Anyone that was injured or poisoned have 3 days/nights to be heal by the doctor before they die.)</li>
+  <li><b><ins>Doctor:</b></ins> Heal one person each night. (Anyone that was injured or poisoned have 3 days/nights to be heal by the doctor before they die.)</li>
   <li><b><ins>Bodyguard:</b></ins> Protect one person from death each night. If the person who you protected is attacked, you and the attacker will die.</li>
   <li><b><ins>Jailor:</b></ins> You will choose one person to talk to in private, blocking their action for the night. You can choose to free or kill them, until time runs out. *JAILOR WILL REMAINS ANONYMOUS, THEIR MESSAGES WILL BE SEND THROUGH THE HOST!*</li>
   <li><b><ins>Investigator:</b></ins> Investigate one person each night for a clue to their role.</li>
@@ -37,5 +52,9 @@ yes i credited aqw because of the character i use. they are from aqw. i like aqw
 <br clear="left"/>
   
  
+<b>CHECKOUT:</b>
 
+<a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a>
+
+<sub><sup>"what is adventure quest worlds and why is it credited?" warlic is from that game</sub></sup>
 </div>
