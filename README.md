@@ -1,6 +1,6 @@
 # <b>PONYTOWN MAFIA RULEBOOK</b>
 
-<img src="warlicplush.png" align="right" width="400px"/>
+<img src="warlicplush.png" align="right" width="350px"/>
 
 <div align="center"><b>Welcome to the rulebook!</b>
 
