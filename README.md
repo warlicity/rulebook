@@ -30,7 +30,7 @@ Here are things you will be expecting here:
   <li><b><ins>Bodyguard:</b></ins> Protect one person from death each night. If the person who you protected is attacked, you and the attacker will die.</li>
   <li><b><ins>Jailor:</b></ins> You will choose one person to talk to in private, blocking their action for the night. You can choose to free or kill them, until time runs out. *JAILOR WILL REMAINS ANONYMOUS, THEIR MESSAGES WILL BE SEND THROUGH THE HOST!*</li>
   <li><b><ins>Investigator:</b></ins> Investigate one person each night for a clue to their role.</li>
-  <li><b><ins>Sheriff:</b></ins> Check one person each night for their activity. You have 1 bullet. If you already check someone, you cannot use your bullet on the same night!</li>
+  <li><b><ins>Sheriff:</b></ins> Check one person each night for their activity. You have 2 bullets (does not reload). If you already check someone, you cannot use your bullet on the same night!</li>
   <li><b><ins>Vigilante:</b></ins> Every night, you gain a bullet. Try to find the mafia and kill them. If you killed 2 innocents, you will die. (Max bullets: 3)</li>
   <li><b><ins>Veteran:</b></ins> Stay alert at night, deals a powerful attacks to anyone visiting/targeting them, killing the visitors, no matter who they are. (2 Uses)</li>
   </details>
@@ -54,7 +54,7 @@ Here are things you will be expecting here:
 
 <a href="https://pony.town/">Ponytown</a> ! <a href="https://www.aq.com/">Adventure Quest Worlds</a> ! <a href="https://www.townofsalem.io/">Town Of Salem</a>
 
-<sub><sup>"what is adventure quest worlds and why is it credited?" warlic is from that game</sub></sup>
+<sub><sup>"what is adventure quest worlds and why is it credited?" warlic is from that game, i kind of use the character to represent myself. i do not own him.</sub></sup>
 
 <img src="warlicplush.png" align="center" width="100px"/>
 </div>
