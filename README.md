@@ -53,7 +53,6 @@ Here are things you will be expecting here:
 
  ## GAMEMODES 
 
-<img src="warlicplush.png" align="right" width="200px"/>
  <div align="left"><details>
   <summary><b>EASY</b></summary>
    1 Godfather, 1 Mafia, 1 Consigliere, 1 Serial Killer. Investigator know the role directly, AND clues will be reveal by the host at daytime.
@@ -74,4 +73,5 @@ Here are things you will be expecting here:
 
 <sub><sup>"what is adventure quest worlds and why is it credited?" warlic is from that game, i kind of use the character to represent myself. i do not own him.</sub></sup>
 
+<img src="warlicplush.png" align="center" width="100px"/>
 </div>
