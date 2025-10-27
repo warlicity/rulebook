@@ -16,7 +16,7 @@ Here are things you will be expecting here:
 
 <div align="left">  
  <ol>
-      <li>There will be NO paragraphs written in this game of mafia! <b><i><ins>PLEASE</ins> don't send me paragraphs as your action.</b></i></li>
+      <li><b>⚠️⚠️⚠️ THERE WILL BE NO PARAGRAPH WRITTEN IN THIS GAME OF MAFIA, I WILL NOT BE PASTING THEM IN THE CHAT FOR EVERYBODY TO SEE. <i><ins>PLEASE</ins> DON'T SEND ME PARAGRAPHS AS YOUR ACTION.⚠️⚠️⚠️ </b></i></li>
       <li>Questions are always welcomed! Don't be afraid to ask if you are confuse!</li>
       <li>Follow Ponytown's rules! While swearing is fine; <b>SLURS, NOT SAFE FOR WORK CONTENT, AND OTHER SENSITIVE TOPICS ARE PROHIBITED.</b></li>
       <li>If there is a name attached to your role, that is your teammate! Work with them by talking in whispers!
