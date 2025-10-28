@@ -35,6 +35,8 @@ Here are things you will be expecting here:
   <li><b><ins>Sheriff:</b></ins> Check one person each night for their activity. You have 2 bullets (does not reload). If you already check someone, you cannot use your bullet on the same night!</li>
   <li><b><ins>Vigilante:</b></ins> Every night, you gain a bullet. Try to find the mafia and kill them. If you killed 2 innocents, you will die. (Max bullets: 3)</li>
   <li><b><ins>Veteran:</b></ins> Stay alert at night, deals a powerful attacks to anyone visiting/targeting them, killing the visitors, no matter who they are. (2 Uses)</li>
+   <li><b><ins>Lookout:</b></ins> See who visited your target during the night.</li>
+   <li><b><ins>Medium:</b></ins> Get information from the dead. (You will only get the information of a dead town role. [Investigator, Sheriff, Lookout, Bodyguard, ETC.]. The information will given by the host.)</li>
   </details>
 <details>
   <summary>$\textcolor{red}{BAD}$</summary>
