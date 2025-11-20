@@ -28,7 +28,8 @@ Here are things you will be expecting here:
 ## ROLES
 <div align="left"> <details> 
   <summary>$\textcolor{green}{GOOD}$</summary>
-  <li><b><ins>Doctor:</b></ins> Heal one person each night. (Anyone that was injured or poisoned have 3 days/nights to be heal by the doctor before they die.)</li>
+  <li><b><ins>Doctor:</b></ins> Doctor: Heal/Protect one person each night. (Anyone that was poisoned have 2 days/nights to be heal by the doctor before they die.) (If the doctor choose to protect someone, they will only be protected that same night.)
+</li>
   <li><b><ins>Bodyguard:</b></ins> Protect one person from death each night. If the person who you protected is attacked, you and the attacker will die.</li>
   <li><b><ins>Jailor:</b></ins> You will choose one person to talk to in private, blocking their action for the night. You can choose to free or kill them, until time runs out. *JAILOR WILL REMAINS ANONYMOUS, THEIR MESSAGES WILL BE SEND THROUGH THE HOST!*</li>
   <li><b><ins>Investigator:</b></ins> Investigate one person each night for a clue to their role.</li>
