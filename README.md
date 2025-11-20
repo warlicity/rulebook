@@ -40,7 +40,7 @@ Here are things you will be expecting here:
   </details>
 <details>
   <summary>$\textcolor{red}{BAD}$</summary>
-  <li><b><ins>Godfather:</b></ins> Give orders to the mafia AND/OR kill someone each night.</li>
+  <li><b><ins>Godfather:</b></ins> Give orders to the mafia. If there are no mafia, kill someone each night.</li>
   <li><b><ins>Mafia:</b></ins> Take orders from the godfather, if order is not given, they're free to kill someone. If the godfather dies, they will become the godfather.</li>
   <li><b><ins>Consigliere:</b></ins> Work with the godfather. Check one person for their EXACT role each night.</li>
   </details>
